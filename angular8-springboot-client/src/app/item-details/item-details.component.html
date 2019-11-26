@@ -1,0 +1,21 @@
+<h2>Item Details</h2> 
+
+<hr/>
+<div *ngIf="item">
+  <div>
+    <label><b>Item Number: </b></label> {{item.itemNumber}}
+  </div>
+  <div>
+    <label><b>Item Name: </b></label> {{item.itemName}}
+  </div>
+  <div>
+    <label><b>Item Amount: </b></label> {{item.itemAmount}}
+  </div>
+	<div>
+    <label><b>Inventory Code: </b></label> {{item.inventoryCode}}
+  </div>    
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Back to Item List</button><br>
