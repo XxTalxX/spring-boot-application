@@ -1,4 +1,4 @@
-### ## # **Inventory Item list API built with java spring boot and web page using type script and angular 8 and Swagger documentation UI**
+ **Inventory Item list API built with java spring boot and web page using type script and angular 8 and Swagger documentation UI**
 
 - Run the spring app from familiar java IDE or using mvn command line with:
 
