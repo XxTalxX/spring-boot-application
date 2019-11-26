@@ -1,6 +1,6 @@
  **Inventory Item list API built with java spring boot and web page using type script and angular 8 and Swagger documentation UI**
 
-The spring boot application contains basic unit test class , some test may fail according to the received status code.
+The spring boot application contains basic unit test class , some tests may fail according to the received status code.
 - Run the spring app from familiar java IDE or using mvn command line with:
 
 ```bash
